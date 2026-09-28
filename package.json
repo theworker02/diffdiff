@@ -21,9 +21,10 @@
   "homepage": "https://theworker02.github.io/diffdiff/",
   "keywords": [
     "diff",
-    "diff",
     "url",
     "cli",
-    "toolkit"
+    "toolkit",
+    "v1",
+    "stable"
   ]
 }
